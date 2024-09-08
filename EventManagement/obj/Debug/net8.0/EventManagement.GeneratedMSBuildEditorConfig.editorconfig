@@ -1,0 +1,271 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EventManagement
+build_property.RootNamespace = EventManagement
+build_property.ProjectDir = C:\Users\Windows\Downloads\OneDrive_2024-09-08\Event Management System\Event-System-master\Event-System-master\EventManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Windows\Downloads\OneDrive_2024-09-08\Event Management System\Event-System-master\Event-System-master\EventManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/AdminDashboard/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5EYXNoYm9hcmRcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/AdminDashboard/RetrieveCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5EYXNoYm9hcmRcUmV0cmlldmVDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/AdminDashboard/RetrieveOrganizers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5EYXNoYm9hcmRcUmV0cmlldmVPcmdhbml6ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/AdminDashboard/RetrieveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5EYXNoYm9hcmRcUmV0cmlldmVVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Role/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/_DashBoardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9EYXNoQm9hcmRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/_HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ib21lTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/GetFromHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXEdldEZyb21IaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/EventOrganizer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXEV2ZW50T3JnYW5pemVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Organizer/ChangPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXE9yZ2FuaXplclxDaGFuZ1Bhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Organizer/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXE9yZ2FuaXplclxNeVByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/_DashBoardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxfRGFzaEJvYXJkTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/_HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxfSG9tZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxfTWFpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Account/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEFjY291bnRcQWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEFjY291bnRcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEFjY291bnRcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Event/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEV2ZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXEV2ZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Payment/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFBheW1lbnRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Payment/FailurePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFBheW1lbnRcRmFpbHVyZVBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Payment/SuccessPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFBheW1lbnRcU3VjY2Vzc1BheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Shared/_HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFNoYXJlZFxfSG9tZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFNoYXJlZFxfTWFpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Ticket/Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFRpY2tldFxCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Ticket/BookedTicketsForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFRpY2tldFxCb29rZWRUaWNrZXRzRm9yVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/User/ChangPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFVzZXJcQ2hhbmdQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/User/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFVzZXJcTXlQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/User/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFVzZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dh2jvyme2u
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/Organizer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JnYW5pemVyXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-ugbdinv9qt
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Areas/System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-7tz5u2724c
+
+[C:/Users/Windows/Downloads/OneDrive_2024-09-08/Event Management System/Event-System-master/Event-System-master/EventManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ct0d71z9yb
